@@ -1,0 +1,6 @@
+name: DogeUIPlugin
+main: dogeui_plugin.Main
+version: "1.0.0"
+api: ["1.0.22"]
+description: "Nukkit-MOT DogeUI资源包集成插件"
+author: "DogeUI-Nukkit"
